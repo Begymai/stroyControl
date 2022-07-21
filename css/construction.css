@@ -1,0 +1,64 @@
+.construction__content{
+    display: flex;
+    justify-content: center;
+}
+
+.construction__title{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 123px;
+    
+
+    color: #212B31;
+}
+
+.construction__description{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    line-height: 32px;
+    margin-top: 11px;
+    width: 827px;
+  
+    color: #72787D;
+}
+/*cons- с лево на право*/
+.cons__sub{
+    margin-top: 95px;
+    margin-right: 91px;
+    
+}
+
+
+.cons__title{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    
+    color: #212B31;
+}
+
+.cons__description{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    width: 500px;
+    margin-top: 19px;
+    line-height: 24px;
+    
+    color: #72787D;
+}
+
+.cons__imgs{
+    margin-top: 32px;
+
+}
+
+.cons__box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

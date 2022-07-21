@@ -1,0 +1,35 @@
+.feature__box{
+    text-align: center;
+    width: 325px;
+}
+
+.feature__title{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 20px;
+
+    color: #212B31;
+}
+
+.feature__description{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 10px;
+
+    color: #72787D;
+}
+
+.feature__conteiner{
+    display: flex;
+    justify-content: center;
+}
+
+.feature__box{
+    margin-right: 0 20px;
+}
+
+.feature{
+    margin-top: 148px;
+}

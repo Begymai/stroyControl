@@ -1,0 +1,88 @@
+.made{
+    background: #212B31;
+    position: relative;
+    padding-top: 144px;
+    margin-top: 144px;
+}
+
+.made__info{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+
+.made__name{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    line-height: 24px;
+
+    position: relative;
+}
+
+.made__description{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.75);
+    margin: 0;
+    line-height: 24px;
+
+}
+
+.made__li{
+    position: absolute;
+    top: 9px;
+    left: -32px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 8px;
+    height: 8px;
+}
+
+.made__info{
+    width: 589px;
+}
+
+.made__item{
+    padding-left: 32px;
+    margin-top: 24px;
+}
+
+.made__img{
+    position: absolute;
+    right: 0;
+}
+
+.made__title{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.made__subtitle{
+    width: 340px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.made__footer{
+    margin-top: 140px;
+    display:flex;
+}
+
+.made__box{
+    text-align: center;
+}

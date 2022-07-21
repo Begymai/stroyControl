@@ -1,0 +1,15 @@
+.conteiner__title{
+    width: 1088px;
+    height: 1px;
+    margin-top: 70px;
+    margin-bottom: 38px;
+    background: #EEF2F3;
+}
+
+.support__title{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    
+}
