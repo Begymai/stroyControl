@@ -47,6 +47,52 @@
 .deliver__sector{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    margin-top: 43px;
+    justify-content: center;
+   margin-top: 22px;
 }
+
+.text{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ 
+}
+
+.points{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    
+
+    color: #72787D;
+}
+
+.text__box{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    color: #72787D;
+    line-height: 32px;
+
+}
+
+.text__link{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    color: #212B31;
+    line-height: 32px;
+    position: relative;
+
+}
+
+.yellow-liner{
+    position: absolute;
+    background: #ffd042;
+    width: 36.5%;
+    height: 13px;
+    
+    top: 13px;
+    z-index: -1;
+}
+

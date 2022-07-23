@@ -86,3 +86,8 @@
 .made__box{
     text-align: center;
 }
+
+.made__button{
+    margin-top: 50px;
+    margin-left: 16px;
+}
